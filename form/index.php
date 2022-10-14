@@ -14,7 +14,7 @@
         </label> <br>
         <label for="email">
             E-mail: <input type="email" name="email">
-        </label> <br>
+        </label><br>
         <label for="dob">
             Date-of-birth: <input type="date" name="dob" max="2012-12-12">
         </label><br>
