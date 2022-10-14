@@ -27,5 +27,4 @@ fclose($handle);//close file
 print_r($result);
 
 
-
 ?>
